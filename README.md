@@ -171,12 +171,6 @@ Full Stack Dev     ███████░░░░░░░░░ 50%
 
 ---
 
-## 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=Abhay71044\&limit=5\&theme=tokyonight\&combine_all_yearly_contributions=true)
-
----
-
 ## 💡 Developer Philosophy
 
 > "First, solve the problem. Then, write the code."
