@@ -165,14 +165,6 @@ Full Stack Dev     ███████░░░░░░░░░ 50%
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Abhay71044&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 [![Abhay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhay71044\&theme=tokyo-night)](https://github.com/Abhay71044)
@@ -182,16 +174,6 @@ Full Stack Dev     ███████░░░░░░░░░ 50%
 ## 🔝 Top Contributed Repositories
 
 ![](https://github-contributor-stats.vercel.app/api?username=Abhay71044\&limit=5\&theme=tokyonight\&combine_all_yearly_contributions=true)
-
----
-
-## 🐍 Contribution Snake
-
-> Enable GitHub Actions and add the snake workflow to make this work.
-
-```markdown
-![snake gif](https://github.com/Abhay71044/Abhay71044/blob/output/github-contribution-grid-snake.svg)
-```
 
 ---
 
