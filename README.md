@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;LeetCode+Problem+Solver;Full+Stack+Developer;Building+Projects+and+Learning+Every+Day;Always+Curious+About+Technology" />
-</p>
+</p> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhay71044&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
