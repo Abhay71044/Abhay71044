@@ -1,10 +1,10 @@
-# <h1 align="center">Hi 👋, I'm Abhay Singh </h1>
+# Hi 👋, I'm Abhay Singh
 
-<h3 align="center">Software Developer | DSA Enthusiast | Full Stack Learner</h3>
+<h3 align="center">Aspiring Software Engineer | DSA Enthusiast | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;LeetCode+Problem+Solver;Full+Stack+Developer;Building+Projects+and+Learning+Every+Day;Always+Curious+About+Technology" />
-</p> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Data+Structures+%26+Algorithms+Enthusiast;Full+Stack+Developer;Building+Projects+and+Solving+Problems;Always+Learning+New+Technologies" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhay71044&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
@@ -14,13 +14,13 @@
 
 ## 🚀 About Me
 
-* 🎓 B.Tech Student passionate about Software Development
-* 💻 Strong interest in Data Structures & Algorithms
-* 🌱 Currently learning Full Stack Development
-* 🔥 Solving problems regularly on LeetCode
-* 🚀 Building projects to improve real-world development skills
-* 🎯 Aspiring Software Development Engineer (SDE)
-* ⚡ Fun Fact: I enjoy debugging almost as much as coding 😄
+- 🎓 B.Tech Student passionate about Software Development
+- 💻 Strong foundation in Data Structures & Algorithms
+- 🌱 Currently learning Full Stack Development and System Design
+- 🔥 Regularly solving problems on LeetCode
+- 🚀 Building projects to gain real-world development experience
+- 🎯 Aspiring Software Development Engineer (SDE)
+- ⚡ Enjoy turning ideas into impactful applications
 
 ---
 
@@ -46,92 +46,61 @@
 
 ---
 
-## 🏆 Coding Profiles
-
-<p align="left">
-<a href="https://leetcode.com/u/Abhay_71044/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-Abhay__71044-orange?style=for-the-badge&logo=leetcode" />
-</a>
-
-<a href="https://github.com/Abhay71044" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Abhay71044-black?style=for-the-badge&logo=github" />
-</a>
-</p>
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Deployment
+### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🎙️ Voice-Based UPI Assistant (Currently Working )
-
-* AI-powered voice payment assistant
-* Speech-to-Text + UPI workflow
-* Accessibility-focused digital payments
+### 🎙️ Voice-Based UPI Assistant
+- AI-powered voice payment assistant
+- Speech-to-Text integration for seamless payments
+- Focused on accessibility and user convenience
 
 ### 📚 Smart Study Planner
-
-* Organize study schedules efficiently
-* Track progress and daily goals
-* Improve productivity and consistency
+- Helps students organize study schedules
+- Goal tracking and productivity monitoring
+- Designed to improve learning consistency
 
 ### 🌐 Portfolio Website
+- Modern responsive portfolio website
+- Built with React and Tailwind CSS
+- Showcases projects, skills, and achievements
 
-* Modern responsive portfolio
-* Built with React & Tailwind CSS
-* Showcases projects and skills
-
-> 🚀 More exciting projects coming soon...
-
----
-
-## 📊 Coding Journey
-
-```text
-DSA                ████████████░░░░ 80%
-C++                ████████████░░░░ 80%
-Problem Solving    █████████████░░░ 85%
-React              █████████░░░░░░░ 60%
-Java               ████████░░░░░░░░ 55%
-Full Stack Dev     ███████░░░░░░░░░ 50%
-```
+🔗 **Live Demo:** https://abhaysingh-portfolio.vercel.app/
 
 ---
 
-## 🎯 Current Goals
+## 🏆 Achievements
 
-* [ ] Solve 500+ LeetCode Problems
-* [ ] Reach 1800+ LeetCode Rating
-* [ ] Build 5+ Full Stack Projects
-* [ ] Contribute to Open Source
-* [ ] Secure an SDE Internship
-* [ ] Master Data Structures & Algorithms
+- Solved 500+ DSA problems across coding platforms
+- Active participant in coding contests
+- Consistently improving problem-solving and development skills
+- Building real-world projects using modern technologies
 
 ---
 
@@ -145,7 +114,7 @@ Full Stack Dev     ███████░░░░░░░░░ 50%
 
 ## 📊 GitHub Profile Summary
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhay71044\&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhay71044&theme=github_dark)
 
 ---
 
@@ -167,45 +136,47 @@ Full Stack Dev     ███████░░░░░░░░░ 50%
 
 ## 📈 Contribution Graph
 
-[![Abhay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhay71044\&theme=tokyo-night)](https://github.com/Abhay71044)
+[![Abhay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhay71044&theme=tokyo-night)](https://github.com/Abhay71044)
 
 ---
 
-## 💡 Developer Philosophy
+## 🎯 Current Focus
+
+- Advanced Data Structures & Algorithms
+- Dynamic Programming
+- Graph Algorithms
+- Full Stack Development
+- Backend Development
+- System Design Fundamentals
+
+---
+
+## 💡 Developer Mindset
 
 > "First, solve the problem. Then, write the code."
 
-> "Consistency beats intensity. Small progress every day leads to big results."
+> "Consistency compounds. Small progress every day leads to remarkable results."
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ Random Developer Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
----
-
-## ⚡ Currently Learning
-
-* Advanced Data Structures
-* Dynamic Programming
-* Graph Algorithms
-* React Ecosystem
-* Backend Development
-* System Design Fundamentals
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
 ## 📫 Reach Me
 
-📧 **Email:** [abhaysingh71044@gmail.com](mailto:abhaysingh71044@gmail.com)
+📧 **Email:** abhaysingh71044@gmail.com
 
 💼 **LinkedIn:** https://www.linkedin.com/in/abhay-singh-894044292/
 
 💻 **LeetCode:** https://leetcode.com/u/Abhay_71044/
 
+🌐 **Portfolio:** https://abhaysingh-portfolio.vercel.app/
+
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h3 align="center">⭐ Thanks for Visiting My Profile ⭐</h3>
 
-<h4 align="center">🚀 Keep Learning • Keep Building • Keep Growing 🚀</h4>
+<h4 align="center">🚀 Open to Internships • Collaborations • Learning Opportunities 🚀</h4>
