@@ -75,9 +75,6 @@ I am a B.Tech student with a strong passion for software engineering, problem-so
   <a href="https://leetcode.com/u/Abhay_71044/">
     <img src="https://leetcard.jacoblin.cool/Abhay_71044?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" width="400"/>
   </a>
-  <a href="https://github.com/Abhay71044">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abhay71044&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="400"/>
-  </a>
 </p>
 
 <p align="center">
