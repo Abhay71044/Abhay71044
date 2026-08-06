@@ -1,226 +1,134 @@
-<h1 align="center">Hi 👋, I'm Abhay Singh</h1>
-<h3 align="center">Software Developer | Full Stack Developer | DSA Enthusiast</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Abhay Singh</h1>
+  <h3>Software Developer | Full Stack Developer | DSA Enthusiast</h3>
 
-<p align="center">
-  <a href="https://abhaysingh-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/abhay-singh-894044292/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Abhay_71044/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:abhaysingh71044@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+  <p>
+    <a href="https://abhaysingh-portfolio.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/abhay-singh-894044292/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://leetcode.com/u/Abhay_71044/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="mailto:abhaysingh71044@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Developer;Full+Stack+Developer;600%2B+DSA+Problems+Solved;Building+Scalable+Web+Applications;Always+Learning+Something+New!" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Abhay71044&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-# 👨‍💻 About Me
-
-🎓 B.Tech Computer Science (AI)
-
-💻 Passionate about Software Development, Full Stack Development and Problem Solving.
-
-🚀 I enjoy building scalable web applications with modern technologies.
-
-🌱 Currently learning Backend Development, System Design and Advanced DSA.
-
-🎯 Looking for Software Development Internship Opportunities.
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Developer;Full+Stack+Developer;600%2B+DSA+Problems+Solved;Building+Scalable+Web+Applications;Always+Learning+Something+New!" alt="Typing SVG" />
+  </p>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Abhay71044&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
+</div>
 
 ---
 
-# 🛠 Tech Stack
+## 👨‍💻 About Me
 
-### Languages
+*   🎓 **Education:** B.Tech Computer Science (Artificial Intelligence).
+*   💻 **Interests:** Passionate about Software Development, Full Stack Architecture, and Complex Problem Solving.
+*   🚀 **What I Do:** I build scalable, accessible web applications and immersive digital experiences.
+*   🌱 **Currently Learning:** Advanced System Design, Backend Architecture, and mastering Advanced DSA.
+*   🎯 **Goal:** Actively seeking **Software Development Internship Opportunities** to contribute and grow.
 
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+  
+**Languages**<br>
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
-### Frontend
-
+**Frontend**<br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-### Backend
-
+**Backend & Database**<br>
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-### Database
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Tools
-
+**Tools & Workflow**<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
 ![VSCode](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
 
----
-
-# 🚀 Featured Projects
-
-## 💳 InclusivePay — Accessible UPI & Digital Wallet ⭐
-
-Enterprise-grade accessible UPI payment web application specially designed for everyone including disabled users.
-
-### Features
-
-- ♿ WCAG 2.1 AAA Accessibility
-- 🔊 Built-in Voice Reader
-- 🌙 High Contrast Mode
-- 🔍 Dynamic Font Scaling
-- 🔐 Firebase Authentication
-- 🔒 JWT Authentication
-- 📱 Android APK Download Website
-- 💸 Secure UPI Wallet Experience
-
-### Tech Stack
-
-React • Vite • Tailwind CSS • Node.js • Express • MongoDB Atlas • Firebase
-
-### 🔗 Live Website
-
-https://inclusive-pay.onrender.com/
-
-### 💻 GitHub
-
-https://github.com/Abhay71044/Inclusive-Pay
+</div>
 
 ---
 
-## 🚀 COSMA — 3D Space & Earth Exploration Platform
+## 🚀 Featured Projects
 
-Modern interactive platform inspired by NASA featuring live APIs and immersive space exploration.
+### 💳 InclusivePay — Accessible UPI & Digital Wallet Platform
+> **Enterprise-grade, WCAG 2.1 AAA accessible digital wallet featuring a dedicated Android App (APK) download hub.**
 
-### Features
+*   **📱 Native App Support:** Built-in portal to download the fully functional Android APK.
+*   **♿ Accessibility First:** High contrast modes, dynamic font scaling (90%–130%), and a built-in Text-to-Speech voice reader.
+*   **🔐 Enterprise Security:** Dual authentication (Firebase + JWT/BcryptJS), rate limiting, and secure local accounts via MongoDB Atlas.
+*   **⚙️ Tech Stack:** React 18, Vite, Tailwind v4, Node.js, Express, MongoDB Atlas, Firebase.
+*   🔗 **[Live Demo](https://inclusive-pay.onrender.com/)** | 💻 **[GitHub Repository](https://github.com/Abhay71044/Inclusive-Pay)**
 
-- 🌍 3D Solar System
-- 🛰 NASA API Integration
-- 🌌 Space Exploration
-- 🤖 AI Space Assistant
-- 📸 NASA APOD
-- 🌠 Space Gallery
-- 🌎 Earth Explorer
+### 🌌 COSMA — 3D Space & Earth Exploration Platform
+> **Immersive space exploration web app inspired by NASA JPL telemetry systems.**
 
-### Tech Stack
-
-React • Vite • Tailwind CSS • NASA API • Unsplash API
-
-### 🔗 Live Website
-
-https://space-explorer-1i4q.onrender.com
-
-### 💻 GitHub
-
-https://github.com/Abhay71044/Space_Explorer
+*   **🪐 3D Simulations:** Interactive Solar System orrery and Exoplanet explorer with real-time orbital speeds.
+*   **🛰️ Real-Time Telemetry:** ISS Live tracking, Earth EPIC Satellite imagery, and Mars Rover Surface Operations.
+*   **🤖 AI Integration:** "TARS" Onboard AI Space Chatbot for answering astrophysics queries.
+*   **⚙️ Tech Stack:** React 18, Vite, CSS 3D Transforms, NASA APIs, Open-Notify API.
+*   🔗 **[Live Demo](https://space-explorer-1i4q.onrender.com)** | 💻 **[GitHub Repository](https://github.com/Abhay71044/Space_Explorer)**
 
 ---
 
-## 🌐 Personal Portfolio
+## 📊 Coding Profiles & Stats
 
-Modern responsive portfolio showcasing my projects, skills and achievements.
+<div align="center">
+  <a href="https://leetcode.com/u/Abhay_71044/">
+    <img src="https://leetcard.jacoblin.cool/Abhay_71044?theme=tokyonight&font=Karma&ext=contest" width="500" alt="LeetCode Stats"/>
+  </a>
+</div>
 
-### 🔗 Live Website
+<br>
 
-https://abhaysingh-portfolio.vercel.app/
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhay71044&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay71044&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
----
+<br>
 
-# 📊 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/Abhay_71044/">
-<img src="https://leetcard.jacoblin.cool/Abhay_71044?theme=dark&font=Karma&ext=contest" width="420"/>
-</a>
-
-</p>
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhay71044&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay71044&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay71044&theme=tokyonight"/>
-
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay71044&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 ---
 
-# 🐍 Contribution Graph
+## 🐍 GitHub Contributions
 
-<p align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhay71044/Abhay71044/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhay71044/Abhay71044/output/github-contribution-grid-snake.svg">
-
-<img src="https://raw.githubusercontent.com/Abhay71044/Abhay71044/output/github-contribution-grid-snake.svg"/>
-
-</picture>
-
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhay71044/Abhay71044/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhay71044/Abhay71044/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Abhay71044/Abhay71044/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  </picture>
+</div>
 
 ---
 
-# 📫 Connect With Me
-
-📧 **Email**
-
-**abhaysingh71044@gmail.com**
-
-🌐 **Portfolio**
-
-https://abhaysingh-portfolio.vercel.app/
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/abhay-singh-894044292/
-
-💻 **GitHub**
-
-https://github.com/Abhay71044
-
-🧩 **LeetCode**
-
-https://leetcode.com/u/Abhay_71044/
-
----
-
-<p align="center">
-
+<div align="center">
+  
 ### ⭐ "First, solve the problem. Then, write the code."
+**Open to Software Development Internships | [Let's Connect!](https://www.linkedin.com/in/abhay-singh-894044292/)**
 
-### 💼 Open to Software Development Internships
-
-</p>
+</div>
